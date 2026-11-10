@@ -5,3 +5,5 @@ Organizers will creates and updates events, categories and participant informati
 The race day systems allows interaction and easy record keeping for different race activities it limits the need for manual record keeping and streamlines the process of inputting and receiving info
 Key Implementation Features
 REST API Endpoints: Complete controller actions for Authentication (/api/auth), Profiles (/api/profile), Categories (/api/categories), Events (/api/events), and Enrolments (/api/enrollments)
+Created a new project file with improved functionality and all requirements for part 3 
+added a new branch to the repository and merged to show poe part 3 file
